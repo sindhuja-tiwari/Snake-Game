@@ -1,1 +1,1 @@
-# Snake-Game
+A classic Snake Game implemented using Python, featuring smooth movement, score tracking, and game-over detection. This project demonstrates fundamental programming concepts, game logic, and event handling in a simple yet engaging way.
